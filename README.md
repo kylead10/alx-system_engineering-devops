@@ -1,1 +1,1 @@
-This is a personal project, a solution to ALX full-stack devel program
+This is a personal project, a solution to ALX full-stack develo program
